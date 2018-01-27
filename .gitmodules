@@ -13,3 +13,6 @@
 [submodule "AIND-Recognizer"]
 	path = AIND-Recognizer
 	url = https://github.com/sherif-abdelkarim/AIND-Recognizer
+[submodule "AIND-Planning"]
+	path = AIND-Planning
+	url = https://github.com/sherif-abdelkarim/AIND-Planning
