@@ -4,3 +4,6 @@
 [submodule "AIND-RNN"]
 	path = AIND-RNN
 	url = https://github.com/sherif-abdelkarim/AIND-RNN
+[submodule "AIND-Sudoku"]
+	path = AIND-Sudoku
+	url = https://github.com/sherif-abdelkarim/AIND-Sudoku
