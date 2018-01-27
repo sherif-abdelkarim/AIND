@@ -1,0 +1,6 @@
+[submodule "AIND-DogBreedClassifier"]
+	path = AIND-DogBreedClassifier
+	url = https://github.com/sherif-abdelkarim/AIND-DogBreedClassifier
+[submodule "AIND-RNN"]
+	path = AIND-RNN
+	url = https://github.com/sherif-abdelkarim/AIND-RNN
