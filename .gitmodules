@@ -19,3 +19,6 @@
 [submodule "AIND-Isolation"]
 	path = AIND-Isolation
 	url = https://github.com/sherif-abdelkarim/AIND-Isolation
+[submodule "AIND-Constraint_Satisfaction"]
+	path = AIND-Constraint_Satisfaction
+	url = https://github.com/sherif-abdelkarim/AIND-Constraint_Satisfaction
